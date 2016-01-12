@@ -16,8 +16,8 @@ The Sound Manager's purpose is to provide an API to play an audio clip immediate
 Additional UI and sound-related features may be added at your discretion.
 
 ## Test Tasklist
-1) *Clone* this repo, and create a public copy of it, using some unique name of your choice. (Do *not* fork this repo.)
-2) Build a singleton, with an API to play sound files.
-3) Build a basic UI on top of the API (i.e. to play the sound).
-4) Add other features to the singleton (if you like), or more fancy sound/action UI that you want us to see.
-5) Send us your completed project, via GitHub link.
+1. *Clone* this repo, and create a public copy of it, using some unique name of your choice. (Do *not* fork this repo.)
+2. Build a singleton, with an API to play sound files.
+3. Build a basic UI on top of the API (i.e. to play the sound).
+4. Add other features to the singleton (if you like), or more fancy sound/action UI that you want us to see.
+5. Send us your completed project, via GitHub link.
